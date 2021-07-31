@@ -1,6 +1,6 @@
-# Valito state management for React.js YT
+# Valtio state management for React.js YT
 
-### Global state management made easy peasy with Valito 🐱‍🏍.
+### Global state management made easy peasy with Valtio 🐱‍🏍.
 
 [**Watch the video to learn how it was made 👀.**][youtube-link]
 
