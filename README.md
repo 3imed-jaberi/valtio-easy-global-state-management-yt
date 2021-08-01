@@ -13,5 +13,5 @@
 
 [MIT][license-link]
 
-[youtube-link]: README.md
+[youtube-link]: https://youtu.be/_265InnoYJ4
 [license-link]: LICENSE
